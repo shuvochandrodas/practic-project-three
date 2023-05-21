@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600&family=Orbitron:wght@400;500;600;700;800&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Exo 2', sans-serif;
+}
+a{
+    text-decoration:none;
+    cursor:pointer;
+    background:linear-gradient(rgb(241, 75, 75),rgb(245, 45, 45));
+    padding:10px 20px;
+    color:#fff;
+    border-radius:5px;
+    font-size:1.5rem;
+    display:inline-block;
+    margin-top:20px;
+}
+
+
+
+
+/* Header Section Style */
+.header{
+    background-image:url('images/donation6.jpg');
+    background-size:cover;
+    padding:200px 0;
+}
+.header .header-content{
+    width:40%;
+    text-align:center;
+    margin:0 auto;
+    color:#fff;
+}
+.header .header-content h1{
+    font-family: 'Orbitron', sans-serif;
+    font-size:35px;
+    font-weight:800;
+}
+.header .header-content p{
+    line-height:1.2rem;
+}
+
+/* Header Section Style */
