@@ -22,23 +22,25 @@ a{
 
 /* Header Section Style */
 .header{
-    background-image:url('images/donation6.jpg');
+    background-image:url('images/donation1.jpg');
     background-size:cover;
     padding:200px 0;
 }
 .header .header-content{
-    width:40%;
-    text-align:center;
-    margin:0 auto;
     color:#fff;
+    width:60%;
+    margin:0 auto;
+    text-align:center;
 }
 .header .header-content h1{
-    font-family: 'Orbitron', sans-serif;
-    font-size:35px;
+    font-size:50px;
     font-weight:800;
 }
 .header .header-content p{
     line-height:1.2rem;
+    width:80%;
+    margin:0 auto;
+    margin-top:10px;
 }
 
 /* Header Section Style */
